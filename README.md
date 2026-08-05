@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# To-Do List Web Application
+
+## Aim
+
+To develop a simple To-Do List web application that allows users to add, complete, and delete tasks using HTML, CSS, and JavaScript.
+
+## Algorithm
+
+1. Create the user interface using HTML.
+2. Design the application using CSS.
+3. Accept the task entered by the user.
+4. When the **Add** button is clicked, add the task to the list.
+5. Mark a task as completed when it is clicked.
+6. Delete a task when the **Delete** button is clicked.
+7. Update the task list dynamically using JavaScript.
+
+## Steps
+
+1. Open the project in Visual Studio Code.
+2. Create the required HTML, CSS, and JavaScript files.
+3. Design the layout and styling.
+4. Implement the add, complete, and delete functionalities using JavaScript.
+5. Save the files and run the project in a web browser.
+6. Test all the functionalities and fix any issues.
+
+## Output
+<img width="1871" height="840" alt="Screenshot 2026-08-05 134733" src="https://github.com/user-attachments/assets/40171c5b-6d2f-4340-96ff-f5302f43aa25" />
+<img width="1252" height="412" alt="Screenshot 2026-08-05 134748" src="https://github.com/user-attachments/assets/c27e5162-06c9-4b23-95be-deb6e25e856a" />
+
+
+## Result
+
+The To-Do List web application was successfully developed. Users can add, mark as completed, and delete tasks through a simple and user-friendly interface.
+
